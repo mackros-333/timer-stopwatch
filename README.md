@@ -84,6 +84,10 @@ python main.py
 
 ```
 ---
+
+![Скриншот приложения](screenshot.png)
+
+---
 ## Структура проекта
 ~~~
 Timer_Stopwatch/
